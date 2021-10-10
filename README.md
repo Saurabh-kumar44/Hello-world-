@@ -1,2 +1,7 @@
-# Hello-world-
-The first of all beginning of codeಥ‿ಥ
+#include<stdio.h>
+
+int main() 
+{
+   Printf("Hello world!");
+}
+
